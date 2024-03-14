@@ -82,3 +82,4 @@ void main() {
   double total = bookingSystem.calculateTotal();
   print("\nTotal amount: \$${total.toStringAsFixed(2)}");
 }
+gi t
